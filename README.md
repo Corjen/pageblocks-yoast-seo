@@ -1,4 +1,4 @@
-# Pageblocks - Yoast SEO ADDON
+# Pageblocks - Yoast SEO addon
 
 Addon for [https://github.com/Corjen/wordpress-pageblocks](https://github.com/Corjen/wordpress-pageblocks)
 
